@@ -1,4 +1,4 @@
-# test-jitsi-call-RN
+# test jitsi call in React Native
 
 ### How to run
 
